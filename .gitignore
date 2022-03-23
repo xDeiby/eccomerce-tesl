@@ -37,6 +37,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 
+# db
+/mongo
 
-#temporal static local db
-/database
+# enviroment vars
+.env
